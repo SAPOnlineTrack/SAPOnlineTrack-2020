@@ -8,8 +8,9 @@ This readme hopes to serve all the needs of organizers and volunteers. It will c
 ## Table of contents
 - [Intro](#intro) - Short introduction
 - [Links](#links) - Links to various resources
+- [Guides](#guides)
 - [Image assets](#image-assets) - Official image assets
-- 
+  
 ## Links
 * Chat on the Discord server [[Link](https://discord.gg/EgmTNT)]
 * Subscribe to the YouTube Channel [[Link](https://www.youtube.com/channel/UCbVRw2p01YO3xdn9aFfVIqg)]
