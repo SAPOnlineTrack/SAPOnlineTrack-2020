@@ -32,7 +32,7 @@ This readme hopes to serve all the needs of organizers and volunteers. It will c
 ## Image assets
 
 ### Banner
-![sitONLINE banner](images/sitOnline-banner.png)
+![sitONLINE banner](images/saponlinetrack-banner.png)
 
 ### Social badge
 ![sitONLINE social badge](images/saponlinetrack-sosial-badge.png)
