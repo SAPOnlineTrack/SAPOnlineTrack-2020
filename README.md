@@ -20,12 +20,12 @@ This readme hopes to serve all the needs of organizers and volunteers. It will c
 * Link to fundraising campaign [[Link](https://www.classy.org/give/t285233/#!/donation/checkout)]
 
 ### Short links to share
-* YouTube Channel - http://bit.ly/sapsitonline-youtube
-* Discord Server - http://bit.ly/sapsitonline-discord-invite
-* Twitter - http://bit.ly/sapsitonline-twitter
-* GitHub Pages landing page - http://bit.ly/sapsitonline
-* Girls Who Code Fundraiser - http://bit.ly/sapsitonline-fundraiser
-
+* YouTube Channel - http://bit.ly/saponlinetrack-youtube
+* Discord Server - http://bit.ly/saponlinetrack-discord
+* Twitter - http://bit.ly/saponlinetrack-twitter
+* GitHub Pages landing page - http://bit.ly/saponlinetrack
+* Girls Who Code Fundraiser - http://bit.ly/saponlinetrack-fundraiser
+  
 ## Guides
 * [Creating guides](./guides/creating-guides/creating-guides.md) - How to create a guide
 
