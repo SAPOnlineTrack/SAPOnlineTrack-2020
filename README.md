@@ -38,4 +38,4 @@ This readme hopes to serve all the needs of organizers and volunteers. It will c
 ![sitONLINE social badge](images/saponlinetrack-sosial-badge.png)
 
 ### Twitter banner
-![sitONLINE twiter banner](images/sitONLINE-twitter-banner.png)
+![sapONLINE twiter banner](images/saponlinetrack-twitter-banner.png)
