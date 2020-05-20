@@ -28,6 +28,7 @@ This readme hopes to serve all the needs of organizers and volunteers. It will c
   
 ## Guides
 * [Creating guides](./guides/creating-guides/creating-guides.md) - How to create a guide
+* [Stream producer checklist](./guides/stream-producer/stream-producer.md) - How to be a stream producer
 
 ## Image assets
 
