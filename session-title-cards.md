@@ -1,4 +1,6 @@
 # Session Title Cards
+Right click on the your title card, and press "Save image as". Sessions are listen in chronological order.
+
 ![](images/session_title_cards/SOT100.png)
 ![](images/session_title_cards/SOT101.png)
 ![](images/session_title_cards/SOT102.png)
