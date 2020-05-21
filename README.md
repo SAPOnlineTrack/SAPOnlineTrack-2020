@@ -10,6 +10,7 @@ This readme hopes to serve all the needs of organizers and volunteers. It will c
 - [Links](#links) - Links to various resources
 - [Guides](#guides)
 - [Image assets](#image-assets) - Official image assets
+- [Session title cards](images/session_title_cards) - Generated title cards for all sessions, for speakers to use in their presentation
   
 ## Links
 * Github Issues [Link](https://github.com/SAP-Inside-Track-Online/sitONLINE-2020/issues)
