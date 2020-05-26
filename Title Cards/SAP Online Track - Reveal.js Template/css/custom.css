@@ -1,0 +1,202 @@
+.footer{
+    background: none !important;
+}
+.sapOnlineTrack {
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    left: 1%;
+    bottom: 1%;
+    background-image: url("../images/sapOnlineTrackLogo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1;
+}
+
+.charity {
+    width: 10%;
+    height: 10%;
+    position: absolute;
+    left: 25%;
+    bottom: 16%;
+	background-image: url("../images/GWC_logo_2016_.png");
+	/* background-image: url("../images/GirlsWhoCodeLogo-White-on-Blue.jpg"); */
+    background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+    /* z-index: 1; */
+}
+
+.opensap {
+    width: 7%;
+    height: 7%;
+    position: absolute;
+    left: 15%;
+    bottom: 1%;
+	background-image: url("../images/opensap.png");
+	background-color: gray;
+	/* background-image: url("../images/GirlsWhoCodeLogo-White-on-Blue.jpg"); */
+    background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+    /* z-index: 1; */
+}
+
+.fcg {
+    width: 7%;
+    height: 7%;
+    position: absolute;
+    left: 23%;
+    bottom: 1%;
+	background-image: url("../images/FAIR_logo_primary_white.png");
+	background-color: black;
+	/* background-image: url("../images/GirlsWhoCodeLogo-White-on-Blue.jpg"); */
+    background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+    /* z-index: 1; */
+}
+
+.press {
+    width: 7%;
+    height: 7%;
+    position: absolute;
+    left: 31%;
+    bottom: 1%;
+	background-image: url("../images/SAP_PRESS_with_box.png");
+	/* background-color: gray; */
+	/* background-image: url("../images/GirlsWhoCodeLogo-White-on-Blue.jpg"); */
+    background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+    /* z-index: 1; */
+}
+
+.espresso {
+    width: 7%;
+    height: 7%;
+    position: absolute;
+    left: 38%;
+    bottom: 1%;
+	background-image: url("../images/espresso-tutorials-logo.png");
+	/* background-color: gray; */
+	/* background-image: url("../images/GirlsWhoCodeLogo-White-on-Blue.jpg"); */
+    background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;
+    /* z-index: 1; */
+}
+
+.sponsorText {
+    width: 10%;
+    height: 5%;
+    position: absolute;
+    left: 5%;
+    bottom: 1%;
+	font-size: 2rem !important;
+	font-style: italic;
+    margin-top: 2% !important;
+	color: black !important;
+    /* z-index: 1; */
+}
+
+
+.charityText {
+    width: 10%;
+    height: 10%;
+    position: absolute;
+    left: 16%;
+    bottom: 11%;
+	font-size: 2rem !important;
+	font-style: italic;
+    margin-top: 2% !important;
+    color: black !important;
+}
+
+.charityLink {
+	width: 30%;
+    height: 5%;
+    position: absolute;
+    left: 11%;
+    bottom: 10%;
+	font-size: 1.5rem !important;
+	font-family: monospace;
+    margin-top: 2% !important;
+    color: black !important;
+}
+
+.sapOnlineTrackBlue {
+    color: #1672A9 !important;
+}
+
+.noBoxShadow {
+    box-shadow: none !important;
+}
+
+.noBackground {
+    background: none !important;
+}
+
+.noBorder {
+    border: none !important;
+}
+
+.sapOnlineTrackBlueBorderColor {
+    border-color: #1672A9 !important;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+.verticalCenter {
+    margin: 0;
+    position: absolute;
+    top: 50%;;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.right {
+    right: 0;
+}
+
+.textAlignLeft {
+    text-align: left;
+}
+
+.sapOnlineTrackLogoLeft {
+    width: 40%;
+    height: 80%;
+    position: absolute;
+    left: 2%;
+    top: 0;
+    background-image: url("../images/sapOnlineTrackLogo2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+	background-position: left;
+}
+
+.speakerDetails {
+    font-size: 2.5rem !important;
+    margin-top: 2% !important;
+	color: black !important;
+	text-align: justify;
+}
+
+.sessionDetails {
+    font-size: 2rem !important;
+    margin-top: 2% !important;
+    color: black !important;
+}
+
+
+.StartEndTitle {
+    width: 50% !important;
+	font-size: 3.8rem !important;
+	margin-right: 2% !important;
+}
