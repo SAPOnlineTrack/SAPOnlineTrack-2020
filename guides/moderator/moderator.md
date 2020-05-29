@@ -25,4 +25,5 @@ Since we have pivoted our setup, there is need for your help during the event. T
 - Share you browser if you would do the spin live for the attendees. The stream producer will change the screens captures.
 - Spin the wheel, and pick a winner. You don't have to share your browser for this, but it would be fun for the attendees. 
 - Report the winner to the @admin team.
+- If a speaker joins a livestream before their allocated time and whilst another stream is still in progress, remove them from the livestream track.  If it continues, send them a polite message in the speakers channel to wait until their allocated time.
 
