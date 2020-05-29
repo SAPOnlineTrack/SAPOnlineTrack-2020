@@ -20,10 +20,11 @@ Since we have pivoted our setup, there is need for your help during the event. T
 - Join Livestream voice channel 10 minutes before the event starts. The speaker should be there already. Coordinate with the speaker, how they want the Q&A; During the session, or in the end. Remember to mute your mic when not speaking.
 - Track questions from the live chat. 
 - Ask questions in voice chat to the speaker
+- Announce in the live chat the following message for the raffle.  "Welcome to the session, we are so pleased you could make it.  We are running a raffle in each session to win OpenSAP reactivation codes, if you are keen to enter, please write you name in the live chat.  We'll collect the names and announce the winner towards the end of the session.  Enjoy learning and good luck winning a prize"
 - Please collect the names from the people in the live chat on youtube  that want to be in the raffle and put them into the Raffle worksheet in the google sheet document pinned in the moderators chat. Find the session code and put all names down vertically. Then we have a fallback if the spinning wheel fails
 - Copy the names of the attendees and enter them in the Wheel of names app.
 - Spin the wheel, and pick a winner. You don't have to share your browser for this. 
-- Report the winner to the @admin team.
+- Report the winner to the @admin team and in the live chat.
 - Ping the stream producer when the session is about to wrap up. The producer might be monitoring up to 3 streams at the time. 
 - If a speaker joins a livestream before their allocated time and whilst another stream is still in progress, remove them from the livestream track (by right clicking on their name and click Disconnect).  If it continues, send them a polite message in the speakers channel to wait until their allocated time.
 - Please keep track of time as we run a tight ship, if a session go over, kindly ask the presenter to wrap it up and continue in the unconference channel.
