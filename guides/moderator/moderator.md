@@ -20,10 +20,12 @@ Since we have pivoted our setup, there is need for your help during the event. T
 - Join Livestream voice channel 10 minutes before the event starts. The speaker should be there already. Coordinate with the speaker, how they want the Q&A; During the session, or in the end. Remember to mute your mic when not speaking.
 - Track questions from the live chat. 
 - Ask questions in voice chat to the speaker
-- Gather names of attendees that want to be in the raffle. Enter them in the Wheel of names app.
-- Ping the stream producer when the session is about to wrap up. The producer might be monitoring up to 3 streams at the time. 
-- Share you browser if you would do the spin live for the attendees. The stream producer will change the screens captures.
-- Spin the wheel, and pick a winner. You don't have to share your browser for this, but it would be fun for the attendees. 
+- Please collect the names from the people in the live chat on youtube  that want to be in the raffle and put them into the Raffle worksheet in the google sheet document pinned in the moderators chat. Find the session code and put all names down vertically. Then we have a fallback if the spinning wheel fails
+- Copy the names of the attendees and enter them in the Wheel of names app.
+- Spin the wheel, and pick a winner. You don't have to share your browser for this. 
 - Report the winner to the @admin team.
-- If a speaker joins a livestream before their allocated time and whilst another stream is still in progress, remove them from the livestream track.  If it continues, send them a polite message in the speakers channel to wait until their allocated time.
-
+- Ping the stream producer when the session is about to wrap up. The producer might be monitoring up to 3 streams at the time. 
+- If a speaker joins a livestream before their allocated time and whilst another stream is still in progress, remove them from the livestream track (by right clicking on their name and click Disconnect).  If it continues, send them a polite message in the speakers channel to wait until their allocated time.
+- Please keep track of time as we run a tight ship, if a session go over, kindly ask the presenter to wrap it up and continue in the unconference channel.
+- If you have any questions throughout the session, instead tagging individual people from the organisers team. Please tag @admin 
+- Enjoy yourself. Without you this wouldn't be possible. Thank you so much for your help &#128588;
